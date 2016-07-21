@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WheelyTest</string>
+    <string name="btnConnect">Connect</string>
+    <string name="btnDisconnect">Disconnect</string>
+    <string name="userNameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="title_activity_login">Авторизация</string>
+    <string name="title_activity_map">Карта</string>
+    <string name="toast_forbidden">Логин или пароль указаны неверно.</string>
+    <string name="toast_is_no_online_or_gps_disabled">Отсутствует доступ в сеть Интернет и/или отключен GPS. Проверте настройки.</string>
+</resources>
